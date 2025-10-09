@@ -147,11 +147,11 @@ const Profile = () => {
             isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'
           }`}>
             <div className="text-center p-4 bg-white/50 rounded-2xl border border-gray-200/60 hover:border-teal-500/30 transition-all duration-300">
-              <div className="text-2xl font-bold text-teal-500">50+</div>
+              <div className="text-2xl font-bold text-teal-500">37+</div>
               <div className="text-sm text-gray-600">Projects Completed</div>
             </div>
             <div className="text-center p-4 bg-white/50 rounded-2xl border border-gray-200/60 hover:border-teal-500/30 transition-all duration-300">
-              <div className="text-2xl font-bold text-teal-500">2+</div>
+              <div className="text-2xl font-bold text-teal-500">~3</div>
               <div className="text-sm text-gray-600">Years Experience</div>
             </div>
           </div>

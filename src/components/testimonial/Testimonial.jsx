@@ -229,7 +229,7 @@ const Testimonial = () => {
         }`}>
           {[
             { number: "100%", label: "Client Satisfaction" },
-            { number: "50+", label: "Projects Delivered" },
+            { number: "37+", label: "Projects Delivered" },
             { number: "98%", label: "On-Time Delivery" },
             { number: "24/7", label: "Support Available" }
           ].map((stat, index) => (
