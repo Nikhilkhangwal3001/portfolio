@@ -130,8 +130,8 @@ const Profile = () => {
             {/* Download CV Button */}
             <a
               className={`group relative flex items-center gap-3 px-8 py-4 bg-white text-gray-800 font-semibold rounded-2xl border-2 border-teal-500/20 hover:border-teal-500 shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 overflow-hidden`}
-              href="/Nikhil-full-stack-25.pdf" 
-              download="/Nikhil-full-stack-25.pdf"
+              href="/Nikhil-2025-cv.pdf" 
+              download="/Nikhil-2025-cv.pdf"
             >
               <FontAwesomeIcon 
                 icon={faDownload} 
